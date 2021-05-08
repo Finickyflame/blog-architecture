@@ -1,1 +1,1 @@
-# blog-architecture
+# DDD in practice
