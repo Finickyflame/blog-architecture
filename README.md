@@ -1,5 +1,5 @@
 # DDD in practice
-Head in the [wiki](wiki) for more information!
+Head in the [wiki](https://github.com/Finickyflame/ddd-in-practice/wiki) for more information!
 
 
 ## Licence
